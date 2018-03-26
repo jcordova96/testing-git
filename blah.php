@@ -9,3 +9,6 @@
 
 
 $txt = 'a new file';
+
+echo $txt.'.';
+
