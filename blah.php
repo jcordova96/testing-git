@@ -11,7 +11,7 @@
 $txt = 'a new file';
 
 
-$abc = 'here is a conflict';
+$abc = 'here is a conflict..';
 
 $def = "fix fix fix fix";
 
