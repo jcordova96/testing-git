@@ -13,7 +13,7 @@ $txt = 'a new file';
 
 $abc = 'here is a conflict..';
 
-$def = "fix fix fix fix";
+$def = "fix!";
 
 echo $txt.'.';
 
