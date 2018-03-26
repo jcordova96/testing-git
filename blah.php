@@ -9,3 +9,6 @@
 
 
 $txt = 'a new file';
+
+
+$abc = 'here is a conflict';
